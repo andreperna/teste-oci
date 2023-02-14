@@ -1,0 +1,20 @@
+{
+  "name": "teste-oci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreperna/teste-oci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreperna/teste-oci/issues"
+  },
+  "homepage": "https://github.com/andreperna/teste-oci#readme"
+}
